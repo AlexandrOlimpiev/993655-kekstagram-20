@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Александр Олимпиев](https://up.htmlacademy.ru/javascript/20/user/993655).
-* Наставник: `Неизвестно`.
+
 
 ---
 
